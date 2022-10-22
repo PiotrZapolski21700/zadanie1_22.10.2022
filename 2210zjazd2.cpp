@@ -22,8 +22,6 @@ int main()
 
     x = (y - org) / x;
 
-    cout << org << " kawa³kow dla organizaotra i po" << x << " na osobe" << endl;
+    cout << org << " kawaÂ³kow dla organizaotra i po" << x << " na osobe" << endl;
     
 }
-
-g
